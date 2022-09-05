@@ -1,1 +1,1 @@
-# conflict_resolution_ingit
+# third-branch
